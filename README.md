@@ -1,4 +1,4 @@
-# IP_Info
+# IP Info
 Very small program to get Local (LAN) and Public (WAN) IP Addresses.
 
 [Windows, C#]
