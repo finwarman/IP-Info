@@ -1,0 +1,5 @@
+A:\Documents\IP_Info\IP_Info\IP_Info\bin\Debug\IP_Info.exe.config
+A:\Documents\IP_Info\IP_Info\IP_Info\bin\Debug\IP_Info.exe
+A:\Documents\IP_Info\IP_Info\IP_Info\bin\Debug\IP_Info.pdb
+A:\Documents\IP_Info\IP_Info\IP_Info\obj\Debug\IP_Info.exe
+A:\Documents\IP_Info\IP_Info\IP_Info\obj\Debug\IP_Info.pdb
